@@ -18,7 +18,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" width="380" src="./profile/stats.svg" alt="GitHub Stats" />
+<img align="right" width="380" src="https://github-stats-extended.vercel.app/api?username=YangHeng66&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=ec4899" alt="GitHub Stats" />
 
 - 😄 嗨，我是 **YangHeng**，一名专注 **前端 × AI** 的开发者
 - 🎨 前端：React / Vue / Next.js，注重交互细节与工程化体验
@@ -89,16 +89,16 @@ const me = {
 
 <div align="center">
   <a href="https://github.com/YangHeng66/interview-coder-cn">
-    <img width="49%" src="./profile/pin-interview-coder-cn.svg" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=YangHeng66&repo=interview-coder-cn&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=ec4899" />
   </a>
   <a href="https://github.com/YangHeng66/vscode-daily-report">
-    <img width="49%" src="./profile/pin-vscode-daily-report.svg" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=YangHeng66&repo=vscode-daily-report&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=ec4899" />
   </a>
   <a href="https://github.com/YangHeng66/360-browser-debugger">
-    <img width="49%" src="./profile/pin-360-browser-debugger.svg" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=YangHeng66&repo=360-browser-debugger&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=ec4899" />
   </a>
   <a href="https://github.com/YangHeng66/vue3-websocket-chat">
-    <img width="49%" src="./profile/pin-vue3-websocket-chat.svg" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=YangHeng66&repo=vue3-websocket-chat&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=ec4899" />
   </a>
 </div>
 
@@ -109,11 +109,12 @@ const me = {
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=YangHeng66&theme=transparent&hide_border=true&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" />
-  <img height="170" src="./profile/top-langs.svg" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=YangHeng66&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=ec4899" />
 </div>
 
 ---
 
+<!-- 贪吃蛇需要 Actions 先跑出 output 分支；账号账单问题解决、snake workflow 成功后取消注释
 ## 🐍 Contribution Snake
 
 <picture>
@@ -123,6 +124,7 @@ const me = {
 </picture>
 
 ---
+-->
 
 <details>
 <summary><b>🎯 2026 Goals</b>（点击展开）</summary>
