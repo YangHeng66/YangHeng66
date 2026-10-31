@@ -114,7 +114,6 @@ const me = {
 
 ---
 
-<!-- 贪吃蛇需要 Actions 先跑出 output 分支；账号账单问题解决、snake workflow 成功后取消注释
 ## 🐍 Contribution Snake
 
 <picture>
@@ -124,7 +123,6 @@ const me = {
 </picture>
 
 ---
--->
 
 <details>
 <summary><b>🎯 2026 Goals</b>（点击展开）</summary>
